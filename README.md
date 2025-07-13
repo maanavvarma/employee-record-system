@@ -1,4 +1,3 @@
-/*
 # employee-record-system
 The Employee Record System (ERS) is a C++ program that manages and integrates employee profiles with their corresponding address information. Key features include:
 
@@ -35,4 +34,3 @@ Key Classes:
 - record: Inherits from both employee and address to create unified records
 
 The system provides a command-line interface for businesses to manage and query employee location data alongside departmental information.
-*/
